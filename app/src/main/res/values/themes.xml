@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.RBBLFantasy" parent="Theme.MaterialComponents.Light" />
+</resources>
